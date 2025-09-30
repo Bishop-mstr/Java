@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="getFullName Tests" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-09-28T17:02:27" hostname="WIN-5R5H86DGDUT" time="0.003">
+  <properties/>
+  <testcase name="Should format full name with both names set" classname="ua.university.model.PersonTest$GetFullNameTests" time="0.002"/>
+  <testcase name="Should format full name when both names are null" classname="ua.university.model.PersonTest$GetFullNameTests" time="0.0"/>
+  <testcase name="Should format full name when lastName is null" classname="ua.university.model.PersonTest$GetFullNameTests" time="0.0"/>
+  <testcase name="Should format full name when firstName is null" classname="ua.university.model.PersonTest$GetFullNameTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

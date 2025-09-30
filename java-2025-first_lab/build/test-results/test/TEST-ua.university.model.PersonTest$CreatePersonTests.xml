@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="createPerson Static Method Tests" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-09-28T17:02:27" hostname="WIN-5R5H86DGDUT" time="0.012">
+  <properties/>
+  <testcase name="[1] , validname" classname="ua.university.model.PersonTest$CreatePersonTests" time="0.001"/>
+  <testcase name="[2] validname, " classname="ua.university.model.PersonTest$CreatePersonTests" time="0.0"/>
+  <testcase name="[3]    , validname" classname="ua.university.model.PersonTest$CreatePersonTests" time="0.001"/>
+  <testcase name="[4] validname,    " classname="ua.university.model.PersonTest$CreatePersonTests" time="0.0"/>
+  <testcase name="[5] null, validname" classname="ua.university.model.PersonTest$CreatePersonTests" time="0.0"/>
+  <testcase name="[6] validname, null" classname="ua.university.model.PersonTest$CreatePersonTests" time="0.0"/>
+  <testcase name="[1] john, doe, John, Doe, john.doe@university.edu" classname="ua.university.model.PersonTest$CreatePersonTests" time="0.002"/>
+  <testcase name="[2] jane, smith, Jane, Smith, jane.smith@university.edu" classname="ua.university.model.PersonTest$CreatePersonTests" time="0.0"/>
+  <testcase name="[3] bob, wilson, Bob, Wilson, bob.wilson@university.edu" classname="ua.university.model.PersonTest$CreatePersonTests" time="0.0"/>
+  <testcase name="Should return null when both names are null" classname="ua.university.model.PersonTest$CreatePersonTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

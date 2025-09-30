@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="equals and hashCode Tests" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-09-28T17:02:27" hostname="WIN-5R5H86DGDUT" time="0.023">
+  <properties/>
+  <testcase name="[1] Person{firstName='John', lastName='Doe', email='john@domain.com'}, Person{firstName='Jane', lastName='Doe', email='john@domain.com'}, different firstName" classname="ua.university.model.PersonTest$EqualsAndHashCodeTests" time="0.013"/>
+  <testcase name="[2] Person{firstName='John', lastName='Doe', email='john@domain.com'}, Person{firstName='John', lastName='Smith', email='john@domain.com'}, different lastName" classname="ua.university.model.PersonTest$EqualsAndHashCodeTests" time="0.0"/>
+  <testcase name="[3] Person{firstName='John', lastName='Doe', email='john@domain.com'}, Person{firstName='John', lastName='Doe', email='jane@domain.com'}, different email" classname="ua.university.model.PersonTest$EqualsAndHashCodeTests" time="0.0"/>
+  <testcase name="[4] Person{firstName='John', lastName='Doe', email='john@domain.com'}, Person{firstName='null', lastName='null', email='null'}, other person has null fields" classname="ua.university.model.PersonTest$EqualsAndHashCodeTests" time="0.0"/>
+  <testcase name="Should be equal to itself" classname="ua.university.model.PersonTest$EqualsAndHashCodeTests" time="0.001"/>
+  <testcase name="Equal persons should have same hashCode" classname="ua.university.model.PersonTest$EqualsAndHashCodeTests" time="0.001"/>
+  <testcase name="Should be equal to person with same data" classname="ua.university.model.PersonTest$EqualsAndHashCodeTests" time="0.0"/>
+  <testcase name="Should not be equal to different class" classname="ua.university.model.PersonTest$EqualsAndHashCodeTests" time="0.0"/>
+  <testcase name="Should not be equal to null" classname="ua.university.model.PersonTest$EqualsAndHashCodeTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

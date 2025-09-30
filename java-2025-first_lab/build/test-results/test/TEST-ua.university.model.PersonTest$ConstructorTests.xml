@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Constructor Tests" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-09-28T17:02:27" hostname="WIN-5R5H86DGDUT" time="0.005">
+  <properties/>
+  <testcase name="[1] john, doe, john@test.com, John, Doe, john@test.com" classname="ua.university.model.PersonTest$ConstructorTests" time="0.003"/>
+  <testcase name="[2] JANE, SMITH, JANE@TEST.ORG, Jane, Smith, jane@test.org" classname="ua.university.model.PersonTest$ConstructorTests" time="0.001"/>
+  <testcase name="[3] bob,   wilson  ,   BOB@EXAMPLE.COM  , Bob, Wilson, bob@example.com" classname="ua.university.model.PersonTest$ConstructorTests" time="0.0"/>
+  <testcase name="Constructor should not set invalid fields" classname="ua.university.model.PersonTest$ConstructorTests" time="0.0"/>
+  <testcase name="Default constructor should create person with null fields" classname="ua.university.model.PersonTest$ConstructorTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

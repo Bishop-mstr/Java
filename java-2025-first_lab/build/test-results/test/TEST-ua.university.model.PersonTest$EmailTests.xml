@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Email Tests" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-09-28T17:02:27" hostname="WIN-5R5H86DGDUT" time="0.012">
+  <properties/>
+  <testcase name="[1] USER@DOMAIN.COM, user@domain.com" classname="ua.university.model.PersonTest$EmailTests" time="0.001"/>
+  <testcase name="[2] Test.Email@Example.Org, test.email@example.org" classname="ua.university.model.PersonTest$EmailTests" time="0.0"/>
+  <testcase name="Should trim and format email with whitespace" classname="ua.university.model.PersonTest$EmailTests" time="0.001"/>
+  <testcase name="[1] " classname="ua.university.model.PersonTest$EmailTests" time="0.001"/>
+  <testcase name="[2] invalid" classname="ua.university.model.PersonTest$EmailTests" time="0.0"/>
+  <testcase name="[3] @domain.com" classname="ua.university.model.PersonTest$EmailTests" time="0.0"/>
+  <testcase name="[4] user@" classname="ua.university.model.PersonTest$EmailTests" time="0.0"/>
+  <testcase name="[5] user@domain" classname="ua.university.model.PersonTest$EmailTests" time="0.0"/>
+  <testcase name="[6] user.domain.com" classname="ua.university.model.PersonTest$EmailTests" time="0.0"/>
+  <testcase name="Should not set null email" classname="ua.university.model.PersonTest$EmailTests" time="0.0"/>
+  <testcase name="Should set email without leading/trailing spaces" classname="ua.university.model.PersonTest$EmailTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
